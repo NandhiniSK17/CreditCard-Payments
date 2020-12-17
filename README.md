@@ -1,2 +1,2 @@
-# birthday-reminder
-birthday-reminder
+# Creditcard-reminder
+Creditcard-reminder
